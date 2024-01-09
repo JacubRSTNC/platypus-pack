@@ -1,0 +1,13 @@
+name = "PlatypusPack"
+author = "Wombos Corp"
+version = "v2.0.5b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48eeb1143256d02bcca901f5d273d02ae47f49ec7091bcc7c1010c8cd736e0fc"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.18.2"
