@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".prettierrc"
-hash = "b0a9c55ac6b2897cadbd19167484e470b955a09ebc1244e31b28190439da60be"
-
-[[files]]
-file = "LICENSE.md"
-hash = "a7fdaed36e9e99e7de02fd7cc02f7b62ab4fecd8f59340673172ca8fcd835678"
-
-[[files]]
-file = "LICENSE_packwiz.md"
-hash = "8eb77df81550a28cef99b63c7b803df793d10110527f5ae40b13e9749986dbcc"
-
-[[files]]
-file = "README.md"
-hash = "f9923b85b2c27cef911b9ee60a099fca0031506f03d725a9103a75c19227f4b6"
-
-[[files]]
 file = "config/DisablePortals.json"
 hash = "7eeb6f3c8186eb0ecb9fda083985d71718790ffa974bd13a81041932fc9610ef"
 
